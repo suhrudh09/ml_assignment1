@@ -1,0 +1,5 @@
+# Ignore data folders
+data/
+__pycache__/
+*.pyc
+.DS_Store
