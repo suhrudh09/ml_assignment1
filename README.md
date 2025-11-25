@@ -1,5 +1,7 @@
 # Smart Bin Classifier 📦
 
+P Suhrudh - se22uari194
+
 An AI-powered inventory verification system for e-commerce fulfillment centers. This project uses Computer Vision to validate whether the items inside a bin match the expected order metadata. It is built using the **Amazon Bin Image Dataset** and implements a Content-Based Image Retrieval (CBIR) approach for fast and accurate validation.
 
 ## 📌 Project Overview
